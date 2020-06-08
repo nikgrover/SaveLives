@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846912945969",
+    "firebase_url": "https://save-lives-954c4.firebaseio.com",
+    "project_id": "save-lives-954c4",
+    "storage_bucket": "save-lives-954c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846912945969:android:1b19bf059ff9192dbe3a10",
+        "android_client_info": {
+          "package_name": "com.example.savelives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846912945969-9e2nspha36uec9jjbos4cf8opt9mvf2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXbRMYKcZJR_rRELibtjHAkBMzkutDTow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846912945969-9e2nspha36uec9jjbos4cf8opt9mvf2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
